@@ -33,7 +33,8 @@ similarity = pd.read_pickle('similarity.pkl')
 
 st.title("Movie Recommendation System")
 with st.sidebar:
-    st.title("Movie Recommendation System on IMDB dataset")
+    st.image('https://www.onepointltd.com/wp-content/uploads/2020/03/inno2.png')
+    st.title("Movie Recommendation with Linear Regression")
 
 
 selected_movie_name = st.selectbox(
