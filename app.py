@@ -33,7 +33,7 @@ similarity = pd.read_pickle('similarity.pkl')
 
 st.title("Movie Recommendation System")
 with st.sidebar:
-    st.image('https://www.onepointltd.com/wp-content/uploads/2020/03/inno2.png')
+    st.image('https://img.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_53876-124672.jpg?q=10&h=200')
     st.title("Movie Recommendation with Linear Regression")
 
 
